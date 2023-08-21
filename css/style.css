@@ -1,0 +1,27 @@
+
+/* Icon CRUD */
+.cr1{
+    font-size: 80px;
+    text-align: center;
+}
+
+body{
+    background-color: #012030 ;
+}
+p {
+    color: #fff;
+}
+th{
+    color: black;
+}
+table{
+    background-color:#fff;
+}
+
+
+ /*media query  */
+@media screen and (max-width:600px) {
+    .parent{
+        width: 95% !important;
+    }
+}
